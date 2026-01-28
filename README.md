@@ -1,1 +1,1 @@
-# tictactoe-api
+# tictactoe
